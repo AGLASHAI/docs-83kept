@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-cy7ipy.nuansa138.space/sitemap.xml
